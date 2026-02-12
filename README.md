@@ -1,6 +1,8 @@
 # The Luci Project: Central Ecosystem Hub
 
-Welcome to **The Luci Project**, the central entry point for the future of the Quantum Web under **Wakanda Technologies 4.0** ecosystem: https://github.com/aevov/wakanda-tech-4.0. This repository aggregates the core components of the Nara Web 4.0 architecture that powers Luci and Lucia while representing the official entry point for quantum-native domains including .q and future domains including but not limited to (.quantum, .qweb, .qtech, .qom, .qet, .qorg).
+Welcome to **The Luci Project**, the central entry point for the future of the Quantum Web under **Wakanda Technologies 4.0** ecosystem: https://github.com/aevov/wakanda-tech-4.0. 
+
+This repository aggregates the core components of the Nara Web 4.0 architecture that powers Luci and Lucia while representing the official entry point for quantum-native domains including .q and future domains including but not limited to (.quantum, .qweb, .qtech, .qom, .qet, .qorg).
 
 Developed by **WPWakanda LLC** / Aevov AI Technologies.
 
