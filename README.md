@@ -1,6 +1,6 @@
 # The Luci Project: Central Ecosystem Hub
 
-Welcome to **The Luci Project**, the central entry point for the **Wakanda Technologies 4.0** ecosystem. This repository aggregates the core components of the Nara Web 4.0 architecture.
+Welcome to **The Luci Project**, the central entry point for the future of the Quantum Web under **Wakanda Technologies 4.0** ecosystem: https://github.com/aevov/wakanda-tech-4.0. This repository aggregates the core components of the Nara Web 4.0 architecture.
 
 Developed by **WPWakanda LLC** / Aevov AI Technologies.
 
