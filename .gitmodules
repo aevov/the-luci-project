@@ -1,0 +1,15 @@
+[submodule "lucia-browser"]
+	path = lucia-browser
+	url = https://github.com/aevov/lucia-browser.git
+[submodule "acl-3.0"]
+	path = acl-3.0
+	url = https://github.com/aevov/acl-3.0.git
+[submodule "nara-engine"]
+	path = nara-engine
+	url = https://github.com/aevov/nara-engine.git
+[submodule "quantum-mesh-sdk"]
+	path = quantum-mesh-sdk
+	url = https://github.com/aevov/quantum-mesh-sdk.git
+[submodule "auf-intelligence-suite"]
+	path = auf-intelligence-suite
+	url = https://github.com/aevov/auf-intelligence-suite.git
